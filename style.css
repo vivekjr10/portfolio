@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+#bg-layout{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#btn1{
+    
+    padding: 8px;
+    color: aliceblue;
+    background-color: red;
+    border-radius: 10px;
+    border: 3px solid green;
+
+}
+#btn1:hover{
+    background-color: green;
+    font-size: 30px;
+    font-weight: bold;
+    border: 3px solid red;
+
+
+
+}
